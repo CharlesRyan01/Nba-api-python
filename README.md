@@ -1,4 +1,4 @@
-Day 1: Project Overview
+NBA Data Visualization Project
 Introduction
 Welcome to the NBA Data Visualization Project! This Python project aims to fetch data from the NBA API, store it in a database, and then visually represent the data using graphs.
 
@@ -15,11 +15,13 @@ Project Structure
 fetch_data.py: Python script to fetch data from the NBA API.
 database.py: Python script to manage the database.
 visualize_data.py: Python script to create visualizations of the data.
-Day 2: Getting Started
-Installation of api
-Clone the repository
+Getting Started
+Installation
+Clone the repository.
 Navigate to the project directory.
 Set up your NBA API credentials.
+Install necessary dependencies.
+Configuration
 Configure the database connection in database.py.
 Day 3: Fetching Data
 Usage
@@ -43,4 +45,4 @@ The script will generate graphs based on the data stored in the database.
 Graphs Created
 Player performance over time
 Team standings
-...
+
